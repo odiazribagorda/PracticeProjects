@@ -1,0 +1,13 @@
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game.exe
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game.deps.json
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game.runtimeconfig.json
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game.runtimeconfig.dev.json
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game.dll
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game.pdb
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game.csprojAssemblyReference.cache
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game.AssemblyInfoInputs.cache
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game.AssemblyInfo.cs
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game.dll
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game.pdb
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game.genruntimeconfig.cache

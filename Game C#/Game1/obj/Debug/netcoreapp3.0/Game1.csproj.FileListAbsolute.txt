@@ -1,0 +1,11 @@
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game1.exe
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game1.deps.json
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game1.runtimeconfig.json
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game1.runtimeconfig.dev.json
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game1.dll
+C:\Users\Óscar\Documents\Projects\Game1\Game1\bin\Debug\netcoreapp3.0\Game1.pdb
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game1.csprojAssemblyReference.cache
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game1.AssemblyInfoInputs.cache
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game1.AssemblyInfo.cs
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game1.dll
+C:\Users\Óscar\Documents\Projects\Game1\Game1\obj\Debug\netcoreapp3.0\Game1.pdb
