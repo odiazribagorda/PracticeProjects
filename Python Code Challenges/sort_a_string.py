@@ -9,4 +9,6 @@ def sort_words(input):
             j = j-1
         l[j+1]=aux
     return ' '.join(l)
+
+## Its more efficient to use list.sort() as the given answer.
         
