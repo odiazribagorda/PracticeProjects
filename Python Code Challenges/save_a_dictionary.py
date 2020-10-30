@@ -15,4 +15,18 @@ def read_dic(path):
         dic[aux[0]] = aux[1]
     file.close()        
     return dic
+
+# Solution with pickle
+import pickle
+
+def save_dic2(path, dic):
+    file = open(path, 'wb')
+    pickle.dump(dic, file)
+    file.close()
+
+def read_dic2(path):
+    file = open(path, 'rb')
+    dic = pickle.load(file)
+    file.close()
+    return dic
     
